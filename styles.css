@@ -1,0 +1,176 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+p {
+  line-height: 2;
+}
+
+h1 {
+  font-size: 5.625em;
+  font-family: 'Sacramento', cursive;
+  display: inline-block;
+  margin: 1em auto 0 auto;
+  color: #66BFBF;
+  /* height: 2em; */
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  margin: 0;
+  margin-bottom: 1em;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.intro {
+  width: 30%;
+  margin: 1em auto;
+}
+
+hr {
+  width: 4%;
+  border-top: solid;
+  border-bottom: 0;
+  border-left: 0;
+  border-right: 0;
+  border-style: dotted;
+  border-color: #F9F9F9;
+  border-top-width: 10px;
+  margin: 2em auto;
+}
+
+span {
+  text-decoration: underline;
+}
+
+.main-container {
+  background-color: #CDF0EA;
+  position: relative;
+  padding-top: 4.125em;
+  /* height: 200px;
+      width: 200px; */
+}
+
+.middle-container {
+  /* background-color: red;
+  height: 200px;
+  width: 200px; */
+}
+
+.bottom-container {
+  /* background-color: blue;
+  height: 200px;
+  width: 200px; */
+  background-color: #11999E;
+  padding: 50px 0 20px 0;
+}
+
+.skill-row0{
+  width: 50%;
+  margin: 6.25em auto 8.25em auto;
+  text-align: left;
+}
+
+.skill-row1{
+  width: 50%;
+  margin: 6.25em auto 6.25em auto;
+  text-align: left;
+}
+
+.skill-img0 {
+  width: 25%;
+  float: left;
+  margin-left: 1em;
+  margin-right: 2em;
+  margin-bottom: 35px;
+}
+
+.skill-img1 {
+  width: 25%;
+  float: right;
+  margin-right: 1em;
+  margin-left: 2em;
+  margin-bottom: 35px;
+}
+
+.profile-img {
+  height: 15em;
+  margin: 6em auto 2em auto;
+}
+
+.cloud-top {
+  height: 12em;
+  position: absolute;
+  right: 20em;
+  top: 18.75em;
+}
+
+.cloud-bottom {
+  position: absolute;
+  height: 15em;
+}
+
+.mountain-img {
+  height: 25em;
+}
+
+.btn {
+  background-color: #66BFBF;
+  border: solid;
+  padding: 0 20px 10px 20px;
+  display: inline-block;
+  border-radius: 28px;
+  border-width: 2;
+  text-decoration: none;
+  border-color: transparent;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20;
+  margin: 1em auto;
+}
+
+.btn:hover {
+  background-color: #11999E;
+  color: black;
+}
+
+.contact-me {
+  width: 40%;
+  margin: 2em auto;
+}
+
+.email-img {
+  height: 30px;
+  margin: 1px;
+  position: relative;
+  top: 7px;
+  left: 4px;
+}
+
+.footer-link{
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.footer-link{
+  margin:0 1em 0 1em;
+  color: #ffffff;
+}
+
+.footer-link:hover{
+  color:black;
+}
+
+.footer-rights{
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
