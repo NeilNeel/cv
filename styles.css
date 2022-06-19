@@ -121,7 +121,7 @@ span {
 }
 
 .mountain-img {
-  height: 25em;
+  height: 24em;
 }
 
 .btn {
@@ -176,16 +176,5 @@ span {
   font-family: 'Montserrat', sans-serif;
 }
 
-@media only screen and (max-width:700px) {
-  .main-container{
-    background-color: #CDF0EA;
-    position: relative;
-    padding-top: 4.125em;
 
-  }
-
-  .mountain-img{
-    height: 24em;
-  }
-}
 
